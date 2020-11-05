@@ -670,7 +670,10 @@ label.valid {
 }
 
 .bottom_up{
-	width:100%;
+  margin: auto;
+
+	  text-align: center;
+
 	background-color:;
 	border-bottom:2px solid #f0f0f0;
 }
@@ -726,4 +729,9 @@ button{
 	font-family:calibri;
 	padding:10px;
 	text-align:left;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
